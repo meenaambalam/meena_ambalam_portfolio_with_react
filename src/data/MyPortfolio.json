@@ -4,49 +4,71 @@
       "name": "Weather Dashboard",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Weather_Dashboard_Screenshot.png?raw=true",
       "applicationURL": "https://meenaambalam.github.io/Weather_Dashboard/",
-      "githubRepo": "https://github.com/meenaambalam/Weather_Dashboard"
+      "githubRepo": "https://github.com/meenaambalam/Weather_Dashboard",
+      "applicationDisp": "Weather Dashboard App",
+      "githubDisp": "Weather Dashboard Github Repo",
+      "description": "A intuitive Weather App that features smart search option to look up current and 5-day weather forecast."
     },
     {
       "id": 2,
       "name": "Plan-eat-arium",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Plan-eat-Arium_Updated_Screenshot1.PNG?raw=true",
       "applicationURL": "https://meenaambalam.github.io/plan-eat-rium.io/",
-      "githubRepo": "https://github.com/meenaambalam/plan-eat-rium.io/"
+      "githubRepo": "https://github.com/meenaambalam/plan-eat-rium.io/",
+      "applicationDisp": "Plan-eat-arium App",
+      "githubDisp": "Plan-eat-arium Github Repo",
+      "description": "Dine-in helper application that helps you plan your weekly menu item, by searching with ingredients and saving the recipes into your weekly calendar for future retrieval."
+    
     },
     {
       "id": 3,
       "name": "Quiz Master",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/QuizApp_screenShot.png?raw=true",
       "applicationURL": "https://meenaambalam.github.io/Quiz_Master/",
-      "githubRepo": "https://github.com/meenaambalam/Quiz_Master"
+      "githubRepo": "https://github.com/meenaambalam/Quiz_Master",
+      "applicationDisp": "Quiz Master App",
+      "githubDisp": "Quiz Master Repo",
+      "description": "A Visual quiz game for young kids, who are intersted in birds. App has placeholder to add additional types of quiz games in the future."
     },
     {
       "id": 4,
       "name": "Workday Scheduler",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Workday_Scheduler_Screenshot.png?raw=true",
       "applicationURL": "https://meenaambalam.github.io/Day_Scheduler/",
-      "githubRepo": "https://github.com/meenaambalam/Day_Scheduler"
+      "githubRepo": "https://github.com/meenaambalam/Day_Scheduler",
+      "applicationDisp": "Workday Scheduler App",
+      "githubDisp": "Workday Scheduler Github Repo",
+      "description": "A Day Scheduler app allows users to save events for each hour of the day and be able to persist and retrieve and edit in the future."
     },
     {
       "id": 5,
-      "name": "Note Take App",
+      "name": "Note Taker App",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/NoteTaker_Screenshot.jpg?raw=true",
       "applicationURL": "https://your-notetaker.herokuapp.com/",
-      "githubRepo": "https://github.com/meenaambalam/your-notetaker"
+      "githubRepo": "https://github.com/meenaambalam/your-notetaker",
+      "applicationDisp": "Note Taker App",
+      "githubDisp": "Note Taker Github Repo",
+      "description": "An application that can be used to write, save, and delete notes. This will help the user with organizing their thoughts and keep track of thier tasks."
     },
     {
       "id": 6,
       "name": "Me Want da Burger",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Me_want_da_Burger_Screenshot.PNG?raw=true",
       "applicationURL": "https://me-want-da-burger.herokuapp.com/",
-      "githubRepo": "https://github.com/meenaambalam/Me_want_da_Burger"
+      "githubRepo": "https://github.com/meenaambalam/Me_want_da_Burger",
+      "applicationDisp": "Me-Want-da-Burger App",
+      "githubDisp": "Me-Want-da-Burger Github Repo",
+      "description": "A restaurant app to track user's Burger order and mark them as devoured when the order is fulfilled."
     },
     {
       "id": 7,
       "name": "Santa's Bag",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Santas_Bag_App_Screenshot.PNG?raw=true",
       "applicationURL": "https://santas-bag.herokuapp.com/",
-      "githubRepo": "https://github.com/samergain/Santas_Bag"
+      "githubRepo": "https://github.com/samergain/Santas_Bag",
+      "applicationDisp": "Santa's Bag App",
+      "githubDisp": "Santa's Bag Github Repo",
+      "description": "A intuitive app to help with planning gifts for your loved ones during the holiday season. You can add your loved ones and specify a budget for each person and get help with finding the right gifts."
     }
   ]
   

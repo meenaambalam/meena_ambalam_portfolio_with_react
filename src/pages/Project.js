@@ -19,7 +19,10 @@ function Project() {
             name={data.name}
             image={data.image}
             applicationURL={data.applicationURL}
+            applicationDisp={data.applicationDisp}
             githubRepo={data.githubRepo}
+            githubDisp={data.githubDisp}
+            appDescription={data.description}
           />
         ))}
       </div>

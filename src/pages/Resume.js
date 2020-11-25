@@ -32,9 +32,9 @@ function Resume() {
                                     Uses passport.js and Bcrypt.js for userid & password authentication and encryption.
                                     Used dotenv to hide the APIKey from the public.
                                 </li>
-                                <li><b>Application URL: </b><a href="https://santas-bag.herokuapp.com/" target="_blank">https://santas-bag.herokuapp.com/</a>
+                                <li><b>Application URL: </b><a href="https://santas-bag.herokuapp.com/" target="_blank" rel="noreferrer">https://santas-bag.herokuapp.com/</a>
                                 </li>
-                                <li><b>Github Repository: </b><a href="https://github.com/samergain/Santas_Bag/" target="_blank">https://github.com/samergain/Santas_Bag/</a>
+                                <li><b>Github Repository: </b><a href="https://github.com/samergain/Santas_Bag/" target="_blank" rel="noreferrer">https://github.com/samergain/Santas_Bag/</a>
                                 </li>
 
                             </ul>
@@ -51,18 +51,16 @@ function Resume() {
                                     A Node JS App hosted on Heroku, with data persisted in MySQL and uses the MVC (Model View and Contol) framework.
                                     Uses express modules/packages for handling the REST API routes and endpoints and express-handlebars for dynamic styling and page rendition.
                                 </li>
-                                <li><b>Application URL: </b><a href="https://me-want-da-burger.herokuapp.com/" target="_blank">https://me-want-da-burger.herokuapp.com/</a>
+                                <li><b>Application URL: </b><a href="https://me-want-da-burger.herokuapp.com/" target="_blank" rel="noreferrer">https://me-want-da-burger.herokuapp.com/</a>
                                 </li>
-                                <li><b>Github Repository: </b><a href="https://github.com/meenaambalam/Me_want_da_Burger/" target="_blank">https://github.com/meenaambalam/Me_want_da_Burger/</a>
+                                <li><b>Github Repository: </b><a href="https://github.com/meenaambalam/Me_want_da_Burger/" target="_blank" rel="noreferrer">https://github.com/meenaambalam/Me_want_da_Burger/</a>
                                 </li>
 
                             </ul>
                             <hr />
                             <h5>Plan-Eat-Arium, Sep'2020-Dec'2020</h5>
                             <ul>
-                                <li>A dine-in helper App called as 'Plan-Eat-arium', which will ease the
-                                pain of adults who
-                                loving cooking.
+                                <li>A dine-in helper App, which will ease the pain of those who loving cooking.
                                 </li>
                                 <li>It will help to lookup recipes and pin the recipes that they like to
                                 their weekly menu calendar.
@@ -71,9 +69,9 @@ function Resume() {
                                 menu item, they will be taken to the recipe link. They can delete the
                                 pinned menu if there is change of plans or if there is change of mind.
                                 </li>
-                                <li><b>Application URL: </b><a href="https://meenaambalam.github.io/plan-eat-rium.io/." target="_blank">https://meenaambalam.github.io/plan-eat-rium.io/</a>
+                                <li><b>Application URL: </b><a href="https://meenaambalam.github.io/plan-eat-rium.io/." target="_blank" rel="noreferrer">https://meenaambalam.github.io/plan-eat-rium.io/</a>
                                 </li>
-                                <li><b>Github Repository: </b><a href="https://github.com/meenaambalam/plan-eat-rium.io/" target="_blank">https://github.com/meenaambalam/plan-eat-rium.io/</a>
+                                <li><b>Github Repository: </b><a href="https://github.com/meenaambalam/plan-eat-rium.io/" target="_blank" rel="noreferrer">https://github.com/meenaambalam/plan-eat-rium.io/</a>
                                 </li>
 
                             </ul>
@@ -90,9 +88,9 @@ function Resume() {
                                 timeslots. It is a simple, but very handy application that can be used
                                 on a daily basis.
                                 </li>
-                                <li><b>Application URL: </b><a href="https://meenaambalam.github.io/Day_Scheduler/" target="_blank">https://meenaambalam.github.io/Day_Scheduler/</a>
+                                <li><b>Application URL: </b><a href="https://meenaambalam.github.io/Day_Scheduler/" target="_blank" rel="noreferrer">https://meenaambalam.github.io/Day_Scheduler/</a>
                                 </li>
-                                <li><b>Github Repository: </b><a href="https://github.com/meenaambalam/Day_Scheduler" target="_blank">https://github.com/meenaambalam/Day_Scheduler</a>
+                                <li><b>Github Repository: </b><a href="https://github.com/meenaambalam/Day_Scheduler" target="_blank" rel="noreferrer">https://github.com/meenaambalam/Day_Scheduler</a>
                                 </li>
 
                             </ul>
@@ -110,9 +108,9 @@ function Resume() {
                                 The App also saves the history of the searched city, for easy access to
                                 those city forecast everytime you use the App.
                                 </li>
-                                <li><b>Application URL: </b><a href="https://meenaambalam.github.io/Weather_Dashboard/" target="_blank">https://meenaambalam.github.io/Weather_Dashboard/</a>
+                                <li><b>Application URL: </b><a href="https://meenaambalam.github.io/Weather_Dashboard/" target="_blank" rel="noreferrer">https://meenaambalam.github.io/Weather_Dashboard/</a>
                                 </li>
-                                <li><b>Github Repository:</b><a href="https://github.com/meenaambalam/Weather_Dashboard" target="_blank">https://github.com/meenaambalam/Weather_Dashboard</a>
+                                <li><b>Github Repository:</b><a href="https://github.com/meenaambalam/Weather_Dashboard" target="_blank" rel="noreferrer">https://github.com/meenaambalam/Weather_Dashboard</a>
                                 </li>
 
                             </ul>

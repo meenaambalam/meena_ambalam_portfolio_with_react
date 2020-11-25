@@ -17,16 +17,16 @@ function ProjectCard(props) {
           <div className="content">
             <ul>
               <li>
-                <strong>Application URL:</strong> <a href={props.applicationURL}>{props.applicationURL}</a>
+                <strong>Description:</strong>{props.appDescription}
               </li>
               <li>
-                <strong>GitHub Repo:</strong> <a href={props.githubRepo}>{props.githubRepo}</a>
+                <strong>Application URL:</strong> <a href={props.applicationURL} target="_blank" rel="noreferrer">{props.applicationDisp}</a>
+              </li>
+              <li>
+                <strong>GitHub Repo:</strong> <a href={props.githubRepo} target="_blank" rel="noreferrer">{props.githubDisp}</a>
               </li>
             </ul>
           </div>
-          {/* <span onClick={() => props.removeFriend(props.id)} className="remove">
-        𝘅
-      </span> */}
         </div>
       </Col>
     </>

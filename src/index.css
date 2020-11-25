@@ -10,7 +10,9 @@ div[data-reactroot] {
   height: 100%;
   padding: 0;
   margin: 0;
-  background: cadetblue;
+  /* background: cadetblue; */
+  /* background-image: url("https://images.all-free-download.com/images/graphiclarge/vector_illustration_of_modern_design_abstract_background_570112.jpg"); */
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-black-abstract-hexagon-creative-geometric-background-material-image_141231.jpg");
   /* background: #bdc3c7;  /* fallback for old browsers */
   /* background: -webkit-linear-gradient(to bottom, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
   /* background: linear-gradient(to bottom, #2c3e50, #bdc3c7); 

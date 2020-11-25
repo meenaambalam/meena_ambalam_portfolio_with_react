@@ -11,11 +11,11 @@ function Footer() {
                     with the heart." -- Helen Keller</p>
       <span text-align="center"> &copy; { new Date().getFullYear() }       
       <a class="waves-effect waves-light btn" title="GitHub"
-                                            href={myInfo.github} target="_window"><i class="fa fa-github"></i></a>
+                                            href={myInfo.github} target="_window" rel="noreferrer"><i class="fa fa-github"></i></a>
       <a class="waves-effect waves-light btn" title="LinkedIn"
-                                            href={myInfo.linkedin} target="_window">in</a>
+                                            href={myInfo.linkedin} target="_window" rel="noreferrer">in</a>
       <a class="waves-effect waves-light btn" title="Email"
-                                            href={mailtotag} target="_window"><i class="fa fa-envelope"></i></a>
+                                            href={mailtotag} target="_window" rel="noreferrer"><i class="fa fa-envelope"></i></a>
       </span>
                      
     </div>
