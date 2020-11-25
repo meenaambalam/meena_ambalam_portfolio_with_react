@@ -9,7 +9,7 @@ function PortfolioCard(props) {
   return (
     <>
       <Col size="md-4">
-        <div className="card">
+        <div className="portfolioCard">
           <h2 className="text-center">{props.name}</h2>
           <div className="img-container text-center">
             <img alt={props.name} src={props.image} />

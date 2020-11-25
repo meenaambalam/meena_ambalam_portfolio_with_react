@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Title from "../components/Title";
 import PortfolioCard from "../components/PortfolioCard";
 import portfolio from "../data/MeenaPortfolio.json";
 
-function Gallery() {
+function Portfolio() {
 
   console.log("Portfolio Infor:", portfolio);
 
@@ -25,4 +25,4 @@ function Gallery() {
   );
 }
 
-export default Gallery;
+export default Portfolio;

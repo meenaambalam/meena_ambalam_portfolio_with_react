@@ -1,48 +1,47 @@
-.card {
-  background: #fff;
+.portfolioCard {
+  background: gray;
   border-radius: 2px;
-  height: 375px;
+  height: 450px;
   margin: 1rem;
   position: relative;
-  width: 375px;
+  width: 400px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
 }
 
-.card > .img-container {
-  height: 60%;
+.portfolioCard > .img-container {
+  height: 50%;
   overflow: hidden;
   text-align: center;
   /* background:#6CADDC; */
-  background: whitesmoke;
+  background: gray;
+  
 }
-.card > .img-container > img {
-  width: 60% /* 60% */
+.portfolioCard > .img-container > img {
+  width: 95% /* 60% */
 }
 
-.card > .content {
+
+.portfolioCard > .content {
   padding-left: 1rem;
   padding-right: 1rem;
   font-size: 15px;
+  color: black;
 }
 
-.card > .content > ul {
+.portfolioCard > .content > ul {
   list-style-type: none;
 }
 
-.card > .content > ul > li {
-  margin-top: 18px;
+.portfolioCard > .content > ul > li {
+  padding-left: 0px;
+  margin-left: 0px;
+  margin-top: 10px;
 }
 
-.card > .remove {
-  color: #ff1744;
-  font-size: 48px;
-  position: absolute;
-  top: -20px;
-  right: 5px;
-  cursor: pointer;
+a:visited {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: none;
 }
 
-.card > .remove:hover {
-  color: #d50000;
-}

@@ -1,35 +1,31 @@
-.aboutCard {
+.aboutDtlCard {
   background: gray;
   border-radius: 2px;
   height: 700px;
   margin: 1rem;
   position: relative;
-  width: 400px;
+  width: 800px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
+  color: whitesmoke;
 }
 
-.aboutCard > .img-container {
-  height: 60%;
-  overflow: hidden;
-  text-align: center;
-  background:black;
-}
-.aboutCard > .img-container > img {
-  width: 80%
-}
-
-.aboutCard > .content {
+.aboutDtlCard > .content {
+  padding-top:10px;
   padding-left: 1rem;
   padding-right: 1rem;
   font-size: 15px;
 }
 
-.aboutCard > .content > ul {
+.aboutMe {
+  padding: 20px;
+}
+
+/* .aboutDtlCard > .content > p {
   list-style-type: none;
 }
 
-.aboutCard > .content > ul > li {
+.aboutDtlCard > .content > p {
   margin-top: 18px;
-}
+} */
 

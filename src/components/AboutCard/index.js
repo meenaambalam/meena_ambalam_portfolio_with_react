@@ -1,31 +1,38 @@
 import React from "react";
 import "./style.css";
+import myInfo from "../../data/MeenaInfo.json";
 
-function PortfolioCard(props) {
-
- console.log(props);
+function AboutCard() {
+  const mailtotag = "mailto: " + myInfo.email;
 
   return (
-    <div className="card">
-      <h2 className="text-center">{props.name}</h2>
+    <div className="aboutCard">
+      <h2 className="text-center">{myInfo.name}</h2>
       <div className="img-container text-center">
-        <img alt={props.name} src={props.image} />
+        <img alt={myInfo.name} src={myInfo.image} />
       </div>
       <div className="content">
         <ul>
           <li>
-            <strong>Application URL:</strong> <a href={props.applicationURL}>{props.applicationURL}</a>
+            <strong>Phone:</strong>{myInfo.phone}
           </li>
           <li>
-            <strong>GitHub Repo:</strong> <a href={props.githubRepo}>{props.githubRepo}</a>
+            <strong>Location:</strong>{myInfo.location}
+          </li>
+          <li>
+            <strong>Email:</strong> <a href={mailtotag}>{myInfo.email}</a>
+          </li>
+          <li>
+            <strong>GitHub:</strong> <a href={myInfo.github}>{myInfo.github}</a>
+          </li>
+          <li>
+            <strong>LinkedIn:</strong> <a href={myInfo.linkedin}>{myInfo.linkedin}</a>
           </li>
         </ul>
       </div>
-      {/* <span onClick={() => props.removeFriend(props.id)} className="remove">
-        𝘅
-      </span> */}
     </div>
   );
 }
 
-export default PortfolioCard;
+
+export default AboutCard;
