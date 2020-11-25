@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 import { Nav, Navbar } from 'react-bootstrap';
 
-
+//Bootstrap Navigation Bar that is collapsable. Link is the React equivalent of <a> tag
 function Navigationbar() {
   return (
     <Navbar bg="dark" variant="dark" expand="lg">

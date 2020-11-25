@@ -10,6 +10,8 @@ import Resume from "./pages/Resume";
 
 function App() {
 
+  // The Page route is managed by Route component from react-router-dom. The Switch acts as a switch to choose the specific page based on the path condition.
+  // Any route that is not defined will fall into the "NoMatch" route.
   return (
     <Router>
       <div className="App">

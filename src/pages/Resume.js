@@ -3,8 +3,8 @@ import Row from "../components/Row";
 import Col from "../components/Col";
 import Header from "../components/Header";
 
-
-function Resume(props) {
+// Resume component -  renders other smaller functional components like Header, Row, Col
+function Resume() {
 
     return (
     <div>

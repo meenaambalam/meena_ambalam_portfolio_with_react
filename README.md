@@ -45,6 +45,6 @@ Any specific details about React itself, please refer to the [React-README](./Re
         
 ## URLS:
 
-GitHub Repository: https://github.com/meenaambalam/employeedirectory_react_app
+GitHub Repository: https://github.com/meenaambalam/meena_ambalam_portfolio_with_react
 
-Application URL: https://employeedirectory-react-app.herokuapp.com/
+Application URL: https://meena-ambalam-portfolio.herokuapp.com/

@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import myInfo from "../../data/MeenaInfo.json";
+import myInfo from "../../data/MyInfo.json";
 
 function AboutCard() {
   const mailtotag = "mailto: " + myInfo.email;
