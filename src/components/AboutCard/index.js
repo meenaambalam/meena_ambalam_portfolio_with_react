@@ -20,13 +20,13 @@ function AboutCard() {
             <strong>Location:</strong>{myInfo.location}
           </li>
           <li>
-            <strong>Email:</strong> <a href={mailtotag}>{myInfo.email}</a>
+            <strong>Email:</strong> <a href={mailtotag} target="_blank">{myInfo.email}</a>
           </li>
           <li>
-            <strong>GitHub:</strong> <a href={myInfo.github}>{myInfo.github}</a>
+            <strong>GitHub:</strong> <a href={myInfo.github} target="_blank">{myInfo.github}</a>
           </li>
           <li>
-            <strong>LinkedIn:</strong> <a href={myInfo.linkedin}>{myInfo.linkedin}</a>
+            <strong>LinkedIn:</strong> <a href={myInfo.linkedin} target="_blank">{myInfo.linkedin}</a>
           </li>
         </ul>
       </div>

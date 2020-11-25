@@ -8,9 +8,10 @@ function Portfolio() {
   console.log("Portfolio Infor:", portfolio);
 
   return (
-
-    <div className="card-deck">
-      <Title>Portfolio List</Title>
+      <div>
+        <Title>My Portfolio</Title>
+        <hr/>
+        <div className="card-deck">
         {portfolio.map(data => (
           <PortfolioCard
             id={data.id}
@@ -21,6 +22,7 @@ function Portfolio() {
             githubRepo={data.githubRepo}
           />
         ))}
+      </div>
     </div>
   );
 }

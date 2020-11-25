@@ -1,12 +1,9 @@
 import React from "react";
 import "./style.css";
-import myInfo from "../../data/MeenaInfo.json";
 
 function AboutDtlCard() {
   return (
     <div className="aboutDtlCard">
-      <h2 className="aboutMe text-center">About Me</h2>
-      <hr />
       <div className="content">
 
         <p>I'm an IT professional with about 20 years of experience in
