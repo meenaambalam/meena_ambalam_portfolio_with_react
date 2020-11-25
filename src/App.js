@@ -1,7 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { Link } from 'react-router-dom';
+import { Nav, Navbar} from 'react-bootstrap';
 import Gallery from "./pages/Gallery";
-import Navbar from "./components/Navbar";
+import Navigationbar from "./components/Navigationbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import NoMatch from "./pages/NoMatch";
@@ -38,7 +40,7 @@ function App() {
   return (
     <Router>
       <div>
-        <Navbar />
+        <Navigationbar />
         <Wrapper>
           <Switch>
             <Route exact path={["/", "/about"]}>

@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Weather Dashboard",
+      "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Weather_Dashboard_Screenshot.png?raw=true",
+      "applicationURL": "https://meenaambalam.github.io/Weather_Dashboard/",
+      "githubRepo": "https://github.com/meenaambalam/Weather_Dashboard"
+    },
+    {
+      "id": 2,
+      "name": "Plan-eat-arium",
+      "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Plan-eat-Arium_Updated_Screenshot1.PNG?raw=true",
+      "applicationURL": "https://meenaambalam.github.io/plan-eat-rium.io/",
+      "githubRepo": "https://github.com/meenaambalam/plan-eat-rium.io/"
+    },
+    {
+      "id": 3,
+      "name": "Quiz Master",
+      "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/QuizApp_screenShot.png?raw=true",
+      "applicationURL": "https://meenaambalam.github.io/Quiz_Master/",
+      "githubRepo": "https://github.com/meenaambalam/Quiz_Master"
+    },
+    {
+      "id": 4,
+      "name": "Workday Scheduler",
+      "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Workday_Scheduler_Screenshot.png?raw=true",
+      "applicationURL": "https://meenaambalam.github.io/Day_Scheduler/",
+      "githubRepo": "https://github.com/meenaambalam/Day_Scheduler"
+    },
+    {
+      "id": 5,
+      "name": "Note Take App",
+      "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/NoteTaker_Screenshot.jpg?raw=true",
+      "applicationURL": "https://your-notetaker.herokuapp.com/",
+      "githubRepo": "https://github.com/meenaambalam/your-notetaker"
+    },
+    {
+      "id": 6,
+      "name": "Me Want da Burger",
+      "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Me_want_da_Burger_Screenshot.PNG?raw=true",
+      "applicationURL": "https://me-want-da-burger.herokuapp.com/",
+      "githubRepo": "https://github.com/meenaambalam/Me_want_da_Burger"
+    },
+    {
+      "id": 7,
+      "name": "Santa's Bag",
+      "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Santas_Bag_App_Screenshot.PNG?raw=true",
+      "applicationURL": "https://santas-bag.herokuapp.com/",
+      "githubRepo": "https://github.com/samergain/Santas_Bag"
+    }
+  ]
+  

@@ -1,10 +1,5 @@
 // import { GitHub } from "@material-ui/icons";
 import React from "react";
-import CardContainer from "../components/CardContainer";
-import Card from "../components/Card";
-import CardHeading from "../components/CardHeading";
-import CardImg from "../components/CardImage";
-import CardBody from "../components/CardBody";
 import Row from "../components/Row";
 import Col from "../components/Col";
 
@@ -13,19 +8,19 @@ import Col from "../components/Col";
 function About(props) {
     console.log("props within About:", props);
     return (
-        // <p>About Me Page</p>
         <div>
             <h1 className="text-center">About Me</h1>
             <p className="text-center h5"></p>
             <Row>
                 <Col size="md-6">
-                    <CardHeading title={props.name} />
+                    <p>CArd with Picture and etc.</p>
+                    {/* <CardHeading title={props.name} />
                     <CardImg image={props.image} />
-                    <CardBody profileUrl={props.github} />
+                    <CardBody profileUrl={props.github} /> */}
                 </Col>
 
                 <Col size="md-6">
-                    <CardContainer />
+                    <p> card with text</p>
                     <p>I'm an IT professional with about 20 years of experience in
                     various platforms from legacy
                     system (Mainframe, COBOL, JCL), Unix platforms and different database like DB2,
@@ -53,22 +48,6 @@ function About(props) {
                     </p>
                                         
                     </Col>
-
-                                    {/* <CardContainer
-                    title={props.name}
-                    image={props.image}
-                    email={props.email}
-                    profileUrl={props.github}
-                    // handleBtnClick={handleBtnClick}
-                />
-                <CardContainer
-                    title={props.name}
-                    image={props.image}
-                    email={props.email}
-                    profileUrl={props.github}
-                    // handleBtnClick={handleBtnClick}
-                /> */}
-
             </Row>
         </div>
     );
