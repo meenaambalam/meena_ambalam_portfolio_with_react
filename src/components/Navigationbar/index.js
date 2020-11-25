@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 import { Nav, Navbar } from 'react-bootstrap';
 
-// Depending on the current path, this component sets the "active" class on the appropriate navigation link item
+
 function Navigationbar() {
   return (
     <Navbar bg="dark" variant="dark" expand="lg">
@@ -10,8 +10,8 @@ function Navigationbar() {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
-          <Nav.Link href="/About">About</Nav.Link>
-          <Nav.Link href="/Portfolio">Portfolio</Nav.Link>
+          <Nav.Link href="/about">About</Nav.Link>
+          <Nav.Link href="/project">Portfolio</Nav.Link>
           <Nav.Link href="/resume">Resume</Nav.Link>
         </Nav>
       </Navbar.Collapse>

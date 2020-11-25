@@ -1,14 +1,14 @@
 import React from "react";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import Title from "../components/Title";
+import Header from "../components/Header";
 
 
 function Resume(props) {
 
     return (
     <div>
-        <Title>Professional Experience</Title>
+        <Header>Professional Experience</Header>
         <div className="card">
             <Row>
                 <Col size="md-12">

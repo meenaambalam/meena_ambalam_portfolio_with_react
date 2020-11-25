@@ -3,13 +3,13 @@ import Row from "../components/Row";
 import Col from "../components/Col";
 import AboutCard from "../components/AboutCard";
 import AboutDtlCard from "../components/AboutDtlCard";
-import Title from "../components/Title";
+import Header from "../components/Header";
 
 function About() {
 
     return (
         <div className="text-center">
-            <Title>About Me</Title>
+            <Header>About Me</Header>
             <hr/>
             <Row>
                 <Col size="md-4">

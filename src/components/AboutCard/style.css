@@ -34,3 +34,9 @@
   margin-top: 18px;
 }
 
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+

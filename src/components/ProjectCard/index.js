@@ -2,7 +2,7 @@ import React from "react";
 import Col from "../Col";
 import "./style.css";
 
-function PortfolioCard(props) {
+function ProjectCard(props) {
 
   console.log(props);
 
@@ -33,4 +33,4 @@ function PortfolioCard(props) {
   );
 }
 
-export default PortfolioCard;
+export default ProjectCard;

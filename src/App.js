@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Portfolio from "./pages/Portfolio";
+import Project from "./pages/Project";
 import Navigationbar from "./components/Navigationbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
@@ -12,15 +12,15 @@ function App() {
 
   return (
     <Router>
-      <div>
+      <div className="App">
         <Navigationbar />
         <Wrapper>
           <Switch>
             <Route exact path={["/", "/about"]}>
               <About />
             </Route>
-            <Route exact path="/portfolio">
-              <Portfolio />
+            <Route exact path="/project">
+              <Project />
             </Route>
             <Route exact path="/resume">
               <Resume />

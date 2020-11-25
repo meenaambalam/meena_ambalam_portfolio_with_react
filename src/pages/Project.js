@@ -1,19 +1,19 @@
 import React from "react";
-import Title from "../components/Title";
-import PortfolioCard from "../components/PortfolioCard";
+import Header from "../components/Header";
+import ProjectCard from "../components/ProjectCard";
 import portfolio from "../data/MeenaPortfolio.json";
 
-function Portfolio() {
+function Project() {
 
   console.log("Portfolio Infor:", portfolio);
 
   return (
       <div>
-        <Title>My Portfolio</Title>
+        <Header>My Portfolio</Header>
         <hr/>
         <div className="card-deck">
         {portfolio.map(data => (
-          <PortfolioCard
+          <ProjectCard
             id={data.id}
             key={data.id}
             name={data.name}
@@ -27,4 +27,4 @@ function Portfolio() {
   );
 }
 
-export default Portfolio;
+export default Project;
