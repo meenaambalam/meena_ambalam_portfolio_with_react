@@ -159,11 +159,9 @@ function Resume() {
                                     <li>Played Lead BA roles in very high visibility projects that span across
                                     multiple channels. 777Mod was one such multi-phase project, where all
                                     the fleets (DOM & INTL) were configured to have 5 cabin product
-                                                structure</li>
-                                    <li>Acted as a Business Analyst representing all MAS subsystems in the CRJ
-                                    Reconfiguration Project, acting as the Business Analyst. Completed
-                                    Requirements Gathering and Designing phases on-time, before it got
-                                                suspended. </li>
+                                                structure.</li>
+                                                <li>Have proven analytical skills and investigative skills in digging deep
+                                                into problems and nailing down the root cause.</li>
                                 </ul>
                                 <hr />
                                 <h5>Senior Developer, Delta Airlines (premerger NWA), 2007-2015</h5>
@@ -172,11 +170,13 @@ function Resume() {
                                                 subsystem of Market Analysis System (MAS). </li>
                                     <li>Was involved in multiple highly visible CSRs from requirement
                                                 gathering to Implementation. </li>
-                                    <li>Have proven analytical skills and investigative skills in digging deep
-                                                into problems and nailing down the root cause.</li>
                                     <li>Was involved actively in planning a recovery and reprocessing of
                                     Net-Ticketed-Revenue, when an implementation by a co-worker destroyed
                                                 the integrity of the data.</li>
+                                                <li>Acted as a Business Analyst representing all MAS subsystems in the CRJ
+                                    Reconfiguration Project, acting as the Business Analyst. Completed
+                                    Requirements Gathering and Designing phases on-time, before it got
+                                                suspended. </li>
                                 </ul>
                                 <hr />
                                 <h5>Senior Consultant, Ecolab, 2004-2007</h5>
