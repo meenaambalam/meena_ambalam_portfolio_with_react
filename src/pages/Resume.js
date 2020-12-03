@@ -14,6 +14,28 @@ function Resume() {
                 <Col size="md-12">
                     <div className="resumeCard">
                         <div class="col-lg-12 card-panel">
+                            <h5>Googly~Bookworm!, Sep'2020-Dec'2020</h5>
+                            <ul>
+                                <li>A React-JS based GoogleBooks Search App. </li>
+                                <li>A MVC (Model, View, Controller) App that helps users to search for books on Google Books API and save them.
+                                The App allows users to search from google books API, and option to save the book to the bookshelf or view the book details for purchase directly from google books.
+                                It also allows to review the saved books, and remove from saved list.
+                                </li>
+                                <li>
+                                    A MERN (MongoDB, Expres, React & Node) Fullstack App hosted on Heroku.
+                                    Uses React and React Hooks to have dynamic and smooth rendering behavior in the client-end.
+                                    Uses express modules/packages for handling the REST API routes and endpoints.
+                                    It uses Bootstrap librarr for styling.
+                                    Used dotenv to hide the APIKey from the public.
+                                    Data persisted in MongoDB (Mongoose) and uses the MVC (Model View and Controller) framework.
+                                </li>
+                                <li><b>Application URL: </b><a href="https://googly-bookworm.herokuapp.com/" target="_blank" rel="noreferrer">https://googly-bookworm.herokuapp.com/</a>
+                                </li>
+                                <li><b>Github Repository: </b><a href="https://github.com/meenaambalam/googly-bookworm" target="_blank" rel="noreferrer">https://github.com/meenaambalam/googly-bookworm</a>
+                                </li>
+
+                            </ul>
+                            <hr />
                             <h5>Santa's Bag! - A Gift Planning and Tracking App, Sep'2020-Dec'2020</h5>
                             <ul>
                                 <li>A fun Gift Planning App perfect for the upcoming Holiday season, but can be used years around to pla gifting for many occassions.
