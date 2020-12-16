@@ -22,7 +22,8 @@ function AboutDtlCard() {
 
         I am very good in people skills, talking with clients and the customers, and in
                             working with a team. I have excellent analytical, problem solving, investigative skills and compelete things to its perfection.</p>
-        <p>Please checkout my Portfolio, that displays various Apps I've deveoped and their respective Github Repositories.</p>
+        <p>Please checkout my Portfolio, that displays various Apps I've deveoped and their respective Github Repositories. 
+          And by the way, this Portfolio site was also built by me using React JS. </p>
       </div>
     </div>
   );
