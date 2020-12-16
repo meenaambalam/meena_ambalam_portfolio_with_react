@@ -1,7 +1,7 @@
 [
     {
     "id": 1,
-    "name": "localUP",
+    "name": "Local UP",
     "image": "https://github.com/meenaambalam/local-up/blob/main/client/src/images/homepage.PNG?raw=true",
     "applicationURL": "https://localup.herokuapp.com/",
     "githubRepo": "https://github.com/meenaambalam/local-up",
