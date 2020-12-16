@@ -1,6 +1,16 @@
 [
     {
     "id": 1,
+    "name": "localUP",
+    "image": "https://github.com/meenaambalam/local-up/blob/main/client/src/images/homepage.PNG?raw=true",
+    "applicationURL": "https://localup.herokuapp.com/",
+    "githubRepo": "https://github.com/meenaambalam/local-up",
+    "applicationDisp": "Local UP",
+    "githubDisp": "Local UP Github Repo",
+    "description": "A MERN stack application to help connect local business with developers who would like to help them with technology efforts and to track the user tickets and assign to developers."
+    },
+    {
+    "id": 1,
     "name": "Santa's Bag",
     "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Santas_Bag_App_Screenshot.PNG?raw=true",
     "applicationURL": "https://santas-bag.herokuapp.com/",

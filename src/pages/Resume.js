@@ -14,6 +14,30 @@ function Resume() {
                     <Col size="md-12">
                         <div className="resumeCard">
                             <div class="col-lg-12 card-panel">
+                                <h5>Local UP, Sep'2020-Dec'2020</h5>
+                                <ul>
+                                    <li>A React-JS based MERN stack App. </li>
+                                    <li>A MVC (Model, View, Controller) App that connects the local businesses needing technology help with developers who are looking for opportunities 
+                                        to build experience.
+                                    The App allows clients to create account and submit tickets requesting for any kind of technology help with creating website or maintenance.
+                                    On the other hand, the App also allows developers graduating from school, to create an account and show interest in helping the client requests.
+                                    There is also Admin user, who assigns the client requests to the developers and manages the tickets and their status.           
+                                </li>
+                                    <li>
+                                        A MERN (MongoDB, Expres, React & Node) Fullstack App hosted on Heroku.
+                                        Uses React and React Hooks to have dynamic and smooth rendering behavior in the client-end.
+                                        Uses express modules/packages for handling the REST API routes and endpoints.
+                                        It uses Bootstrap library for styling.
+                                        Used dotenv to hide the APIKey from the public.
+                                        Data persisted in MongoDB (Mongoose) and uses the MVC (Model View and Controller) framework.
+                                </li>
+                                    <li><b>Application URL: </b><a href="https://localup.herokuapp.com/" target="_blank" rel="noreferrer">https://localup.herokuapp.com/</a>
+                                    </li>
+                                    <li><b>Github Repository: </b><a href="https://github.com/meenaambalam/local-up" target="_blank" rel="noreferrer">https://github.com/meenaambalam/local-up</a>
+                                    </li>
+
+                                </ul>
+                                <hr />
                                 <h5>Googly~Bookworm!, Sep'2020-Dec'2020</h5>
                                 <ul>
                                     <li>A React-JS based GoogleBooks Search App. </li>
@@ -25,7 +49,7 @@ function Resume() {
                                         A MERN (MongoDB, Expres, React & Node) Fullstack App hosted on Heroku.
                                         Uses React and React Hooks to have dynamic and smooth rendering behavior in the client-end.
                                         Uses express modules/packages for handling the REST API routes and endpoints.
-                                        It uses Bootstrap librarr for styling.
+                                        It uses Bootstrap library for styling.
                                         Used dotenv to hide the APIKey from the public.
                                         Data persisted in MongoDB (Mongoose) and uses the MVC (Model View and Controller) framework.
                                 </li>
