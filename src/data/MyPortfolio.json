@@ -10,7 +10,7 @@
     "description": "A MERN stack application to help connect local small businesses looking for technology help, with fresh graduated developers looking to gain experience."
     },
     {
-    "id": 1,
+    "id": 2,
     "name": "Santa's Bag",
     "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Santas_Bag_App_Screenshot.PNG?raw=true",
     "applicationURL": "https://santas-bag.herokuapp.com/",
@@ -20,7 +20,7 @@
     "description": "A intuitive app to help with planning gifts for your loved ones during the holiday season. You can add your loved ones and specify a budget for each person and get help with finding the right gifts."
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Googly~BookWorm",
       "image": "https://github.com/meenaambalam/googly-bookworm/blob/main/client/public/ReadMePics/Screenshot_Saved_Books.jpg?raw=true",
       "applicationURL": "https://googly-bookworm.herokuapp.com/",
@@ -30,7 +30,7 @@
       "description": "A React JS based Google Book Search App. Users can save books to their bookshelves, and can query, review and purchase as per their desire."
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Plan-eat-arium",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Plan-eat-Arium_Updated_Screenshot1.PNG?raw=true",
       "applicationURL": "https://meenaambalam.github.io/plan-eat-rium.io/",
@@ -41,7 +41,7 @@
     
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Me Want da Burger",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Me_want_da_Burger_Screenshot.PNG?raw=true",
       "applicationURL": "https://me-want-da-burger.herokuapp.com/",
@@ -51,7 +51,7 @@
       "description": "A restaurant app to track user's Burger order and mark them as devoured when the order is fulfilled."
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Weather Dashboard",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Weather_Dashboard_Screenshot.png?raw=true",
       "applicationURL": "https://meenaambalam.github.io/Weather_Dashboard/",
@@ -61,7 +61,7 @@
       "description": "A intuitive Weather App that features smart search option to look up current and 5-day weather forecast."
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Quiz Master",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/QuizApp_screenShot.png?raw=true",
       "applicationURL": "https://meenaambalam.github.io/Quiz_Master/",
@@ -71,7 +71,7 @@
       "description": "A Visual quiz game for young kids, who are intersted in birds. App has placeholder to add additional types of quiz games in the future."
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Workday Scheduler",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/Workday_Scheduler_Screenshot.png?raw=true",
       "applicationURL": "https://meenaambalam.github.io/Day_Scheduler/",
@@ -81,14 +81,14 @@
       "description": "A Day Scheduler app allows users to save events for each hour of the day and be able to persist and retrieve and edit in the future."
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Note Taker App",
       "image": "https://github.com/meenaambalam/Responsive_Portfolio/blob/master/pictures/NoteTaker_Screenshot.jpg?raw=true",
       "applicationURL": "https://your-notetaker.herokuapp.com/",
       "githubRepo": "https://github.com/meenaambalam/your-notetaker",
       "applicationDisp": "Note Taker App",
       "githubDisp": "Note Taker Github Repo",
-      "description": "An application that can be used to write, save, and delete notes. This will help the user with organizing their thoughts and keep track of thier tasks."
+      "description": "An application that can be used to write, save, and delete notes. This will help the user with organizing their thoughts and keep track of their tasks."
     }
   ]
   
