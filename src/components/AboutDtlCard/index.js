@@ -14,9 +14,8 @@ function AboutDtlCard() {
         <p>I have been recently playing the role of a Business Analyst and decided to take
         break from my work due to
                             the Covid impact to my employer and also due to my inner wanting to explore other skills and opportunities.</p>
-         <p>As I have enjoyed the role of a developer and loving to solve problems, I have
-        made the decision to switch back to
-                            development. I decided to explore in the field of FullStack Web development, which seems to be a good venue to satify the creator within me. </p>
+         <p>I have always enjoyed problem solving and giving technical advise even in my Business Analyst role. 
+           And as I have loved web technologies that I was exposed to in my past experiences, I decided to update my knowledge with the modern FullStack Web development technologies, to add more technical feathers to my cap. </p>
         <p>I hold a Bachelor's degree in Computer Science and Engineering from an
         accredited University in India.
 
